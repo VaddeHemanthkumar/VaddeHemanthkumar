@@ -48,8 +48,8 @@ If you have an idea, a challenge, or just want to discuss tech, don't hesitate t
 ## 📫 How to Connect with Me
 
 * **GitHub:** You're already here! Feel free to explore my repositories.
-* **Email:** your.email@example.com (Replace with your actual email)
-* **LinkedIn:** [Your LinkedIn Profile URL Here] (e.g., `linkedin.com/in/yourprofile`) - **Highly Recommended!** A strong LinkedIn profile is crucial for networking.
+* **Email:** vaddehemanthkumar26@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/vadde-hemanth-kumar-b7a31233b/?originalSubdomain=in
 
 ---
 
